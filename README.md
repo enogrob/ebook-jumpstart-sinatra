@@ -24,12 +24,12 @@ Sinatra Takes to the Stage
 [x] Creating a Betting Game
 [x] Sinatra: The Safe Bet
 Building a Basic Website
-[ ] Example Website: Songs By Sinatra
-[ ] ERB and Views
-[ ] Becoming Dynamic
-[ ] Adding Some Style
-[ ] Missing Pages
-[ ] Instance Variables
+[x] Example Website: Songs By Sinatra
+[x] ERB and Views
+[x] Becoming Dynamic
+[x] Adding Some Style
+[x] Missing Pages
+[x] Instance Variables
 [ ] Start Your Engines
 [ ] Partials
 [ ] Getting Sassy
