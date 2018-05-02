@@ -35,10 +35,10 @@ Building a Basic Website
 [x] Getting Sassy
 [x] Take the Long View
 Collecting Records
-[ ] Databases
-[ ] Installing SQLite
-[ ] Object Relational Mappers
-[ ] Song Class
+[x] Databases
+[x] Installing SQLite
+[x] Object Relational Mappers
+[x] Song Class
 [ ] Interacting with the Song Class in IRB
 [ ] CRUD Operations
 [ ] Putting it on the Web
