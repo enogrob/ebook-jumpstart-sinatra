@@ -1,22 +1,25 @@
 require 'sinatra'
 require 'sinatra/reloader' if development?
+require 'sass'
 
 # set :public_folder, 'images'
 # set :root         , File.dirname(__FILE__)
 
+get('/styles.css'){ scss :styles }
+
 get '/' do
-  erb :home
+  slim :home
 end
 
 get '/about' do
   @title = "All About This Website"
-  erb :about
+  slim :about
 end
 
 get '/contact' do
-  erb :contact
+  slim :contact
 end
 
 not_found do
-  erb :not_found
+  slim :not_found
 end

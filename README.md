@@ -30,11 +30,20 @@ Building a Basic Website
 [x] Adding Some Style
 [x] Missing Pages
 [x] Instance Variables
-[ ] Start Your Engines
-[ ] Partials
-[ ] Getting Sassy
-[ ] Take the Long View
+[x] Start Your Engines
+[x] Partials
+[x] Getting Sassy
+[x] Take the Long View
 Collecting Records
+[ ] Databases
+[ ] Installing SQLite
+[ ] Object Relational Mappers
+[ ] Song Class
+[ ] Interacting with the Song Class in IRB
+[ ] CRUD Operations
+[ ] Putting it on the Web
+[ ] Finishing Touches
+[ ] For the Record
 Setting up to Go Live
 Helpers and Finders
 Jazzing up with JavaScript
