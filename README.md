@@ -39,8 +39,8 @@ Collecting Records
 [x] Installing SQLite
 [x] Object Relational Mappers
 [x] Song Class
-[ ] Interacting with the Song Class in IRB
-[ ] CRUD Operations
+[x] Interacting with the Song Class in IRB
+[x] CRUD Operations
 [ ] Putting it on the Web
 [ ] Finishing Touches
 [ ] For the Record
